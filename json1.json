@@ -1,0 +1,12 @@
+{
+  "dataCt":	2,
+  "members":[
+              { "name": "yamada", "tel": "119" },
+              { "name": "suzuki", "tel": "117" }
+            ],
+  "info":		[ true, false, false, null ,true ],
+  "status":	{
+              "alert":		1,
+              "error":		3
+            }	
+}

@@ -1,0 +1,93 @@
+/*
+登録画面
+*/
+    .reg{
+      /*float:        left;*/
+
+/*
+      margin-top:   5%;
+*/
+      margin-left:  10%;
+      margin-right:  10%;
+      
+    }
+/*
+登録画面のレイアウト
+*/
+    dl dt {
+      float:        left;
+      width:        30%;
+      height:       30px;
+      /*margin-left:  50px;*/
+    }
+    dl dd {
+      height:       30px;
+      /*margin-left:  300px;*/
+      margin-left:  30%;
+    }
+
+
+
+/*
+登録内容の確認
+*/
+    .conf {
+        color:      gray;
+        /*background-color:gray;*/
+    }
+
+/*
+    頁のタイトル
+ */
+    h1 {
+        text-align:       center;
+        color:            white;
+        background-color: black;
+    }
+
+
+/*
+テーブル一覧
+*/    
+
+    td{
+        /*width:200px;  */
+        height:30px;
+    }
+
+    table#menu{
+      width: 100%;
+    }
+    
+    table#menu2{
+      width: 100%;
+    }
+    
+    
+    #menu td{
+      width: 28%;
+      margin-top: 0;
+    }
+    .menu {
+      width: 102%;
+/*
+      height:3em;
+*/
+    }    
+
+    #openBtn{
+      width="50px";
+    }
+    #closeBtn{
+      width="50px";
+    }
+
+    #loginStatusID{
+/*
+      background-color: white;
+*/
+/*
+      color:  red;
+*/
+      color:  white;
+    }
